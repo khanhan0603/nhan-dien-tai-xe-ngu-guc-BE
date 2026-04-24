@@ -33,7 +33,7 @@ Backend chịu trách nhiệm:
 - Spring Security
 - Maven
 - RESTful API
-- MySQL / H2 (tuỳ cấu hình)
+- MySQL
 - Git, GitHub
 
 ---
