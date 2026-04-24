@@ -13,7 +13,7 @@ Backend chịu trách nhiệm:
 
 ## Kiến trúc
 - Backend: Spring Boot (REST API)
-- Client: Android App (repo riêng)
+- Client: Android App (repo riêng: https://github.com/khanhan0603/nhan-dien-tai-xe-ngu-guc-FE.git)
 - AI Module: chạy trên thiết bị (client)
 
 ---
